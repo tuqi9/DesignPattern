@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+    <beverageProviderClass>org.tuqi.sample.creator.factory.impl2.CokeColaFactory</beverageProviderClass>
+</config>
